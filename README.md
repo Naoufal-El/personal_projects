@@ -1,1 +1,1 @@
-# Welcome to my Personal projects area where I share my personal dev codes
+# Welcome to my Personal projects area where I my dev codes
