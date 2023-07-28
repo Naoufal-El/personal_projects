@@ -1,2 +1,1 @@
-# Personal projects area where I share my personal dev codes
-repos !!!!
+# Welcome to my Personal projects area where I share my personal dev codes
