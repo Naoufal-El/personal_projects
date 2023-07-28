@@ -1,1 +1,1 @@
-# project_kafka_postgres
+Personal projects area where I share my codes
