@@ -1,1 +1,3 @@
-Personal and university projects
+===================================
+||Personal and university projects||
+===================================
